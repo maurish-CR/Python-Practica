@@ -1,0 +1,8 @@
+print("perro".islower())
+print("GATO".isupper())
+print("Perro".isupper())
+print("The Four Seasons".istitle())
+print("Area".isalpha())
+print("123".isnumeric())
+print("Aawd123".isalnum())
+print("      ".isspace())
