@@ -1,0 +1,4 @@
+Cheat notes
+__init()__ : is a method called initializer, it's equivalent to te constructor
+usage of self is actually by convention, as the word self has no inherent
+meaning in Python, but this is one of Python's most respected conventions, and you should always follow it).y

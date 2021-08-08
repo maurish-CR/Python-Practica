@@ -1,0 +1,29 @@
+*Variables*
+A name assigned to an object
+String is an immutable sequence of text characters
+String can be iterated just like list, using  []
+Lists are a data structure that stores an ordered sequence of objects
+
+
+None is the absence of a value
+
+
+*Functions*
+-Function is a collection of 1 or more statements
+-Default Arguments: Fallback arguments that are passed to a function if an explicit value is not provided for a parameter
+
+*Method*
+-A function that acts upon a specific object
+
+
+*Recursion*
+-It's when a fucntion calls itself
+
+
+Escapes characters
+\t
+\n
+\\
+\' or \"
+
+Section 6 - 50
